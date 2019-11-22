@@ -1,0 +1,102 @@
+.d-flex {
+    display: flex;
+}
+
+.d-block {
+    display: block;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.justify-content-start {
+    justify-content: flex-start;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.justify-content-end {
+    justify-content: flex-end;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+
+.btn-app {
+    padding: 5px 10px;
+    margin: 0;
+    min-width: unset;
+    height: unset;
+}
+
+.tab-pane {
+    overflow: hidden;
+}
+
+.form-group {
+    overflow: hidden;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.checkbox {
+    margin-left: 15px;
+}
+
+#success {
+    color: #00A65A;
+    font-weight: bold;
+}
+
+#errors {
+    color: #DD4B39;
+}
+
+.m-0 {
+    margin: 0;
+}
+
+.p-0 {
+    padding: 0;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+.ml-15 {
+    margin-left: 15px;
+}
+
+.content-header>.breadcrumb {
+    float: right;
+    background: transparent;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    padding: 7px 5px;
+    position: absolute;
+    top: 6px;
+    right: 10px;
+    border-radius: 2px;
+}
+
+.search-form {
+    margin-bottom: 15px;
+}
+
+.select_search {
+    margin-bottom: 15px;
+}
